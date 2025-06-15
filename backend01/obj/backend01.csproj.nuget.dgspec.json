@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\java\\semana100\\backend01\\backend01.csproj": {}
+    "D:\\java\\semana10\\backend01\\backend01.csproj": {}
   },
   "projects": {
-    "D:\\java\\semana100\\backend01\\backend01.csproj": {
+    "D:\\java\\semana10\\backend01\\backend01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\java\\semana100\\backend01\\backend01.csproj",
+        "projectUniqueName": "D:\\java\\semana10\\backend01\\backend01.csproj",
         "projectName": "backend01",
-        "projectPath": "D:\\java\\semana100\\backend01\\backend01.csproj",
+        "projectPath": "D:\\java\\semana10\\backend01\\backend01.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "D:\\java\\semana100\\backend01\\obj\\",
+        "outputPath": "D:\\java\\semana10\\backend01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -85,6 +85,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             },
             "MySql.EntityFrameworkCore": {
               "target": "Package",
